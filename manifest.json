@@ -1,0 +1,42 @@
+{
+  "name": "Deep Drill | ديب دريل",
+  "short_name": "DeepDrill",
+  "description": "تقنيات البترول والذكاء الاصطناعي — حاسبات، محاكي اختبارات، AI",
+  "start_url": "https://deep1drill.blogspot.com/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#051230",
+  "theme_color": "#051230",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "portrait-primary",
+  "scope": "https://deep1drill.blogspot.com/",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhYwMS6PhxWbIEkRjPqhFG-G5_avn96sDDX4dBOCkLwh1jCLun-AurT9tu4aGxOX81wo4zQeh74SELi9oQAGdcfezi-BrAD5agG7GYcCJ8j1TrsS8ZUOJMf7TE2Qgg2iB96dPnk2x1JRjuBEC9n3iZaa8_m-kfsURKOqcdDDEeDIVd2Temx9XveDS_8eAu4=s192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhYwMS6PhxWbIEkRjPqhFG-G5_avn96sDDX4dBOCkLwh1jCLun-AurT9tu4aGxOX81wo4zQeh74SELi9oQAGdcfezi-BrAD5agG7GYcCJ8j1TrsS8ZUOJMf7TE2Qgg2iB96dPnk2x1JRjuBEC9n3iZaa8_m-kfsURKOqcdDDEeDIVd2Temx9XveDS_8eAu4=s512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "حاسبات الحفر",
+      "short_name": "حاسبات",
+      "url": "https://deep1drill.blogspot.com/search/label/calculations",
+      "description": "حاسبات الضغط والطين والسعة"
+    },
+    {
+      "name": "محاكي الاختبارات",
+      "short_name": "اختبارات",
+      "url": "https://deep1drill.blogspot.com/search/label/well-control",
+      "description": "IWCF / IADC"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"]
+}
